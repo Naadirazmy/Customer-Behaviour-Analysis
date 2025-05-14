@@ -6,6 +6,14 @@
 
 This data analysis project aims to provide insights into the historical purchase data for a retail store to uncover customer shopping patterns across channels. By analyzing various aspect of the purchase data, we seek to identify high-value customers by conducting RFM Analysis, evaluate product and sales trends, and highlight opportunities to improve subscription management and boost online sales.
 
+## Visualisation
+
+[Looker Studio](https://lookerstudio.google.com/s/nX3B7URnLqY)
+
+
+![Screenshot 2025-05-14 at 2 15 26 PM](https://github.com/user-attachments/assets/f89354d2-8353-47b1-b57c-6b3c60456cac)
+
+
 ### Data Sources 
 
 - Sourced from a real, globally recognized omnichannel retailer (brand name anonymized for confidentiality).
@@ -107,14 +115,6 @@ ORDER BY total_sold DESC;
 ## Reference
 1. [Business Report](https://drive.google.com/file/d/10lH3q07kpEWSdL3VvsxR29en_GOl2Qqj/view?usp=drive_link)
 2. [SQL Query](https://docs.google.com/document/d/1fLBpubdZlqBzh4BLcnPkSoa8u3Da7yLr/edit?usp=drive_link&ouid=105505531963600591665&rtpof=true&sd=true)
-
-## Visualisation
-
-[Looker Studio](https://lookerstudio.google.com/s/nX3B7URnLqY)
-
-
-![Screenshot 2025-05-14 at 2 15 26 PM](https://github.com/user-attachments/assets/f89354d2-8353-47b1-b57c-6b3c60456cac)
-
 
 
 
