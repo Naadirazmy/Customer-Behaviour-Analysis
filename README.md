@@ -10,8 +10,7 @@ This data analysis project aims to provide insights into the historical purchase
 
 [Looker Studio](https://lookerstudio.google.com/s/nX3B7URnLqY)
 
-
-![Screenshot 2025-05-14 at 2 15 26 PM](https://github.com/user-attachments/assets/f89354d2-8353-47b1-b57c-6b3c60456cac)
+![Screenshot 2025-05-14 at 2 42 15 PM](https://github.com/user-attachments/assets/a9ec8aa1-c97e-4443-8d35-32bd0ff5fee8)
 
 
 ### Data Sources 
